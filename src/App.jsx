@@ -10,7 +10,7 @@ const categories = [
 
 const listings = [
   { name: '2021 Range Rover Sport', category: 'Cars', price: '$32,800', meta: '18k miles · Automatic', tone: 'car', badge: 'Great price', image: 'https://media.cdn-jaguarlandrover.com/api/v2/images/121525/w/640/h/360.jpg' },
-  { name: 'iPhone 15 Pro, 256GB', category: 'Phones', price: '$749', meta: 'Excellent · 1 year old', tone: 'phone', badge: 'Verified', image: 'https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=640&q=85' },
+  { name: 'iPhone 15 Pro, 256GB', category: 'Phones', price: '$749', meta: 'Excellent · 1 year old', tone: 'phone', badge: 'Verified', image: 'https://www.istore.com.gh/images/iphonehome/iphone15pro/iphone_15_pro_white_titanium.jpg' },
   { name: 'Linen summer set', category: 'Clothes', price: '$48', meta: 'Size M · Like new', tone: 'cloth', badge: 'Popular' },
   { name: 'MacBook Air M2', category: 'Computers', price: '$899', meta: '16GB · 512GB · 2023', tone: 'computer', badge: 'Top deal', image: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=640&q=85' },
 ]
